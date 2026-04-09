@@ -5,8 +5,7 @@ export const sections = [
     id: 'hero',
     subtitle: <Badge variant="outline" className="text-white border-white">✨ Бесплатно</Badge>,
     title: "Никогда не кончаются идеи.",
-    showButton: true,
-    buttonText: 'Получить идею'
+    showWheel: true,
   },
   {
     id: 'about',
